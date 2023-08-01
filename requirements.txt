@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+jupyter
+openai
+panel
+Redlines
